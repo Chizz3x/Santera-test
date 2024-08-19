@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "https://web-ts.com/static/css/main.98ec47ca.css",
-    "main.js": "https://web-ts.com/static/js/main.882e84a0.js",
-    "index.html": "https://web-ts.com/index.html",
-    "main.98ec47ca.css.map": "https://web-ts.com/static/css/main.98ec47ca.css.map",
-    "main.882e84a0.js.map": "https://web-ts.com/static/js/main.882e84a0.js.map"
+    "main.css": "https://chizz3x.github.io/Santera-test/static/css/main.98ec47ca.css",
+    "main.js": "https://chizz3x.github.io/Santera-test/static/js/main.23803fc3.js",
+    "index.html": "https://chizz3x.github.io/Santera-test/index.html",
+    "main.98ec47ca.css.map": "https://chizz3x.github.io/Santera-test/static/css/main.98ec47ca.css.map",
+    "main.23803fc3.js.map": "https://chizz3x.github.io/Santera-test/static/js/main.23803fc3.js.map"
   },
   "entrypoints": [
     "static/css/main.98ec47ca.css",
-    "static/js/main.882e84a0.js"
+    "static/js/main.23803fc3.js"
   ]
 }
